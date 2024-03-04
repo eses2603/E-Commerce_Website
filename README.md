@@ -1,9 +1,13 @@
-# Redux Thunk
+<h1> E-Commerce_Website</h1>
 
-Redux thunk , redux kullanılan projelerde asenkron işlemleri kolayşlaştırmak bileşen içerisndeki karışılıklığı azaltmak ve aynı zamanda bileşen içseindeki kompleks yapıyı ayrı bir noktda tanımlamamızı sağlar.
+I've independently designed and coded a responsive E-Commerce_Website, and it's ready to explore!
 
-Redux temel yapısı eylemlerin senkron olması üzerine kuruldur. Yani bir eyelem tetiklendiğinde bu eylem bekleme süresi olmadan hemen işlenir state güncellenir.
+🔸 Project Name: [E-Commerce Website]
 
-Asenkron işlemlerle uğraşmak istendiğinde, Redux thunk devreye girer.
-Redux thunk, action oluşturan fonksiyonların basit bir nesne döndürmesi yerine bir fonksiyon döndürmesine izin verir. Bu ssayede asenkron işlemler gerçekleştirelbilir.
-# E-Commerce_Website
+🔸 Technologies Used: React, Redux, Thunk, Axios, Bootstrap
+
+🔸 Project Description: This website, which I designed and coded from scratch, works flawlessly on various devices, from mobile phones to desktop computers. On this e-commerce site created using Redux Thunk Products can be added, calculated and deleted.
+
+<h2>Screen_Shoot</h2>
+
+![](screen_ecommerce.gif)
